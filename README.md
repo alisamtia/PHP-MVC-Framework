@@ -374,21 +374,6 @@ Security is a core consideration of the framework.
 
 > **Note:** This project is primarily intended for learning, experimentation, and small-to-medium PHP applications. Perform your own security review before using it in production.
 
-## 🗺️ Roadmap
-
-* [ ] Dependency Injection Container
-* [ ] Database migrations
-* [ ] CLI / Artisan-style commands
-* [ ] Event system
-* [ ] Job / queue system
-* [ ] Improved ORM
-* [ ] `.env` configuration
-* [ ] Automated testing
-* [ ] API authentication
-* [ ] Global exception handler
-* [ ] Framework documentation
-* [ ] Package system
-
 ## 🎯 Philosophy
 
 The goal isn't to recreate Laravel.
