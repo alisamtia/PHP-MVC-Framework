@@ -1,0 +1,22 @@
+# PHP dependencies
+/vendor/
+
+# Node dependencies
+/node_modules/
+
+# IDE
+/.idea/
+
+# Environment / secrets
+.env
+.env.*
+
+# User uploads
+/Public/uploads/*
+
+# Logs
+/storage/logs/*
+
+# OS files
+.DS_Store
+Thumbs.db
