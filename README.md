@@ -29,7 +29,8 @@ It follows the **Model–View–Controller (MVC)** pattern with a clean separati
 * ⚠️ Structured HTTP error handling
 
 ## 🏗️ Architecture
-<img width="1920" height="1440" alt="diagram" src="https://github.com/user-attachments/assets/6816e99d-c942-444e-a48e-ebeb12f9dd6e" />
+<img width="1920" height="1440" alt="php-mvc-architecture" src="https://github.com/user-attachments/assets/f594425b-7cbc-4439-9f2c-569b777379f7" />
+
 
 The architecture separates responsibilities so applications remain easier to maintain, test, and extend.
 
