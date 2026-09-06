@@ -29,33 +29,7 @@ It follows the **Model–View–Controller (MVC)** pattern with a clean separati
 * ⚠️ Structured HTTP error handling
 
 ## 🏗️ Architecture
-
-```text
-Request
-   │
-   ▼
- Router
-   │
-   ▼
-Middleware
-   │
-   ▼
-Controller
-   │
-   ├──► Service
-   │      │
-   │      ▼
-   │    Model
-   │      │
-   │      ▼
-   │   Database
-   │
-   ▼
- View
-   │
-   ▼
-Response
-```
+<img width="1920" height="1440" alt="diagram" src="https://github.com/user-attachments/assets/6816e99d-c942-444e-a48e-ebeb12f9dd6e" />
 
 The architecture separates responsibilities so applications remain easier to maintain, test, and extend.
 
